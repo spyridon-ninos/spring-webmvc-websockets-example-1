@@ -1,2 +1,2 @@
-# spring-webmvc-websockets-example-1
-A simple webmvc with websockets project
+# webflux-example-2
+an extended example, based on webflux-example-1, introducing more elaborate testing
